@@ -5,7 +5,7 @@
         @import url("style.css");
     </style>
   <meta charset="utf-8">
-  <title>Растягиваемый фон</title>
+  <title>Den Borik</title>
   <style>
    body {
    
@@ -16,6 +16,7 @@
     background-size: 300%; /* Современные браузеры */
    }
   </style>
+
  </head>
  <body>
  <a href="tel:+380957816268">Позвонить по номеру +38 (095)7816268 </a>
